@@ -98,7 +98,7 @@ class Tripping extends Component {
                 <ul>
                   <li>Data has been sourced from "Open Data Transport NSW".</li>
                   <li>The map displays realtime train positions in Sydney, the Blue Mountains and the Central Coast.</li>
-                  <li>Trains can be filtered by terminal origin and destination and individually selected using the search feature to display on the map.</li>
+                  <li>Trains can be filtered by terminal origin and destination and individually selected using the search feature to display spsecific trains on the map.</li>
                   <li>Individual trains on the map can be clicked for further information.</li>
                 </ul>
               </p>
